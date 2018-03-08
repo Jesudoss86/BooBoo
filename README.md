@@ -1,2 +1,0 @@
-# BooBoo
-First Test Project
